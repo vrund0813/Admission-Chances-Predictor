@@ -1,4 +1,4 @@
-##SALIENT PROJECT FEATURES:
+# SALIENT PROJECT FEATURES:
   - The college admission predictor requires us to predict the chances of admission, which is a 
   dependent variable based on independent variables such as GRE, TOEFL, CGPA etc., so we have 
   chosen the Linear Regression Model
